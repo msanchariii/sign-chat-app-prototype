@@ -8,6 +8,8 @@
 
 If you want to work locally using your own IDE, you can clone this repo and push changes.
 
+You can run the scripts in any Linux/Mac terminal or `GitBash` in Windows. Or run them manually.
+
 Follow these steps:
 
 ```sh
@@ -17,7 +19,6 @@ git clone "https://github.com/msanchariii/sign-chat-app-prototype"
 # Step 2: Navigate to the project directory.
 cd sign-chat-app-prototype
 
-# You can run the scripts in any Linux/Mac terminal or GitBash in Windows.
 # Step 3: Set Up the project. We assume youre system have npm installed.
 $ ./setup.sh
 
